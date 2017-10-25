@@ -1,0 +1,42 @@
+h1 {
+  font-size: 60px;
+  font-weight: 900;
+  color: 0A0B40;
+  background-color: A7C0F4;
+  padding: 20px;
+}
+
+body {
+  font-size: 24px;
+  color: 0B0A0C;
+  font-family: 'Merriweather', serif;
+}
+
+article, header {
+  max-width: 960px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+p{
+  margin-bottom: 40px;
+}
+
+figcaption {
+  font-family:sans-serif;
+  font-size: 16px;
+  line-height: 18px;
+  color: #999999;
+}
+
+figcaption.credit {
+  text-align: right;
+}
+
+figure img {
+  width: 100%;
+}
+
+.lead{
+  background-color: pink;
+}
